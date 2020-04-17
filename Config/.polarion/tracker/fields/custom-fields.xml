@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <field id="FEstatus" name="Status" type="enum:status"/>
+    <field id="FEusercomment" name="User Comment" type="duration"/>
+</fields>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group-roles>
+    <group name="DM">
+        <role name="project_user"/>
+    </group>
+</group-roles>
